@@ -13,6 +13,7 @@ public class App {
         System.out.println(new App().getGreeting());
         System.out.println("New Line - Hello");
         /*this is my comment */
+        //Next comment
         int a=10,b=11;
         if (a!=b) 
         System.out.println("This message after if is scuccessful");
